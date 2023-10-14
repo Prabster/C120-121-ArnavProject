@@ -1,0 +1,12 @@
+#myDiv1 {
+    background-color: rgb(150, 150, 150);
+    color: white;
+    width: 75%;
+    height: 700px;
+    border-radius: 50px;
+}
+
+#myImg1 {
+    height: 250px;
+    width: 200px;
+}
